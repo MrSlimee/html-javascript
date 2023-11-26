@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <style>
+  table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+  </style>
+  
+  <title></title>
+</head>
+<body>
+<table>
+<tr>
+<td>Partita</td>
+<td>Risultato</td>
+<td>Data</td>
+</tr>
+<tr>
+<td>Napoli vs Frosinone</td>
+<td>3-1</td>
+<td>19/08/2023</td>
+</tr>
+<tr>
+<td>Napoli vs Sassuolo</td>
+<td>2-0</td>
+<td>27/08/2023</td>
+</tr>
+<tr>
+<td>Napoli vs Lazio</td>
+<td>1-2</td>
+<td>2/09/2023</td>
+</tr>
+<tr>
+<td>Napoli vs Genoa</td>
+<td>2-2</td>
+<td>16/09/2023</td>
+</tr>
+</table>
+  <p>&nbsp;</p>
+
+</body>
+</html>
